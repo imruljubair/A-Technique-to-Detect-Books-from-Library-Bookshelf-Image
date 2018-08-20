@@ -7,7 +7,7 @@ link: https://ieeexplore.ieee.org/document/6617619/
 
 # Author:
 
-The code is written by Mohammad Imrul Jubair (original author)
+The code is written by Mohammad Imrul Jubair (author of the paper)
 
 # How to run the code:
 
