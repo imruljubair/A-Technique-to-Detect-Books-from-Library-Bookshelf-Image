@@ -5,7 +5,11 @@ by Mohammad Imrul Jubair and Prianka Banik. The paper was published in IEEE 9th 
 
 link: https://ieeexplore.ieee.org/document/6617619/
 
+# Author:
+
 The code is written by Mohammad Imrul Jubair (original author)
+
+# How to run the code:
 
 1. open and run the book_recogn.m
 2. input images must be located inside INPUT folder.
