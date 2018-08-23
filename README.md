@@ -20,4 +20,4 @@ The code is written by Mohammad Imrul Jubair (author of the paper)
 	b. DETECT: line detected as book boundary (shown as yellow lines) for each shelves.
 	c. BOOKS: extracted books. There is a naming format for each images: shelfNumber_bookNumber.jpg. For example, 2_7.jpg means this is extracted from shelf no. 2, book number 7.
 
-Note: Some sample input images are collected via google image searching.
+Note: Some sample input images are collected via google image searching. Another implementation can be found here: https://www.mathworks.com/matlabcentral/fileexchange/55134-a-technique-to-seperate-books-from-a-shelf-and-read-characters-from-it
