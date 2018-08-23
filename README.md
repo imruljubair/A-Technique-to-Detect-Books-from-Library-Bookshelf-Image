@@ -3,6 +3,8 @@
 This is the implementation of the paper A Technique to Detect Books from Library Bookshelf Image
 by Mohammad Imrul Jubair and Prianka Banik. The paper was published in IEEE 9th International Conference on Computational Cybernetics, July 8-10, 2013, Tihany, Hungary.
 
+![Alt text](https://github.com/imruljubair/A-Technique-to-Detect-Books-from-Library-Bookshelf-Image/blob/master/OUTPUT/DETECT/shelf_1.jpg)
+
 link: https://ieeexplore.ieee.org/document/6617619/
 
 # Author:
