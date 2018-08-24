@@ -1,4 +1,4 @@
-# A-Technique-to-Detect-Books-from-Library-Bookshelf-Image
+# A Technique to Detect Books from Library Bookshelf Image (2013)
 
 This is the implementation of the paper A Technique to Detect Books from Library Bookshelf Image
 by Mohammad Imrul Jubair and Prianka Banik. The paper was published in IEEE 9th International Conference on Computational Cybernetics, July 8-10, 2013, Tihany, Hungary.
